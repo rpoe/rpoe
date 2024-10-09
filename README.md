@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rpoe
-- 👀 I’m interested in Math, Sudoku, Go, Concurrency, DevOps, Testautomation, Robots, IoT, TaiJi
+- 👀 I’m interested in Math, Sudoku, Go, Concurrency, DevOps, Testautomation, Robots, IoT, TaiJi, KungFu
 - 🌱 I’m currently learning Math, TaiJi, KungFu
 - 💞️ I’m looking to collaborate on Open Source in Go
 - 📫 How to reach me ralf@poeppel-familie.de
